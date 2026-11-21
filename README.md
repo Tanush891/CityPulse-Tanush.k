@@ -7,7 +7,7 @@ directory output, and navigating the repository from PowerShell.
 
 ## Requirements
 
-- Windows 10 or Windows 11
+-  Windows 11
 - Windows Subsystem for Linux (WSL) installed
 - A Linux distribution configured in WSL
 - PowerShell
